@@ -1,7 +1,7 @@
 
 # Implementation-of-Full-Adder-and-Full-subtractor-circuit
-## NAME : DHANUSH P
-## REG NO : 212223230042
+## NAME : SRIRAM.V
+## REG NO : 212224050047
 ## DATE :
 **AIM:**
 
