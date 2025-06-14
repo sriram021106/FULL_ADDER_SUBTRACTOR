@@ -2,7 +2,7 @@
 # Implementation-of-Full-Adder-and-Full-subtractor-circuit
 ## NAME : SRIRAM.V
 ## REG NO : 212224050047
-## DATE :
+## DATE : 08/04/2025
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
